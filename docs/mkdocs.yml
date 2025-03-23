@@ -1,0 +1,17 @@
+site_name: My Awesome Lib
+nav:
+  - Home: index.md
+  - API Documentation:
+    - Data Utils: modules/data_utils.md
+    - Math Tools: modules/math_tools.md
+    - Text Processing: modules/text_processing.md
+  - License: license.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+
+repo_url: https://github.com/Jamptorxes/My_Awesome_Lib
+edit_uri: edit/main/docs/docs/
